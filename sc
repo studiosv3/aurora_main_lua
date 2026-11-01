@@ -1,7 +1,7 @@
 -- ==========================================
 -- AURORA HUB UNIVERSAL LOADER
 -- ==========================================
-local loaderUrl = "https://raw.githubusercontent.com/aurora-script2026a/aurora/refs/heads/main/auroraa.lua"
+local loaderUrl = "https://raw.githubusercontent.com/studiosv3/safe/refs/heads/main/scriptt.lua"
 
 local success, response = pcall(function()
     return game:HttpGet(loaderUrl)
