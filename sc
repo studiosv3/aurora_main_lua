@@ -1,7 +1,7 @@
 -- ==========================================
 -- AURORA HUB UNIVERSAL LOADER
 -- ==========================================
-local loaderUrl = "https://raw.githubusercontent.com/studiosv3/robloxx/refs/heads/main/sc.lua"
+local loaderUrl = "https://pastefy.app/lRBuGjSe/raw"
 
 local success, response = pcall(function()
     return game:HttpGet(loaderUrl)
