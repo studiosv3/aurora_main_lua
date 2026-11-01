@@ -1,7 +1,7 @@
 -- ==========================================
 -- AURORA HUB UNIVERSAL LOADER
 -- ==========================================
-local loaderUrl = "https://pastefy.app/gHwSrJaU/raw"
+local loaderUrl = "https://pastefy.app/Vqubue7Z/raw"
 
 local success, response = pcall(function()
     return game:HttpGet(loaderUrl)
